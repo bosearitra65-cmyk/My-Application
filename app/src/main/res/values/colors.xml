@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Background Gradient -->
+    <color name="bg_start">#0D2B45</color>
+    <color name="bg_center">#163B59</color>
+    <color name="bg_end">#1B4E75</color>
+
+    <!-- Glassmorphism -->
+    <color name="glass_bg">#33FFFFFF</color>
+    <color name="glass_stroke">#4DFFFFFF</color>
+
+    <!-- Inputs -->
+    <color name="input_bg">#26FFFFFF</color>
+    <color name="input_stroke">#4DFFFFFF</color>
+
+    <!-- Button Gradient -->
+    <color name="btn_gradient_start">#00BFA5</color>
+    <color name="btn_gradient_end">#7C4DFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_title">#022242</color>
+    <color name="text_hint">#444444</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_teal">#310C03</color>
+</resources>
